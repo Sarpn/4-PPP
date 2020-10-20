@@ -1,2 +1,2 @@
 # 4-PPP
-4 Player Pixi Pong
+4-Player Pixi Pong
